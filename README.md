@@ -34,7 +34,7 @@ O diferencial desta aplicação está no controlador de **Pedidos (Orders)**, on
 * Docker Desktop (para o SQL Server).
 
 #### 2. Configurar o Banco
-Com o Docker Desktop aberto, execute no **Console do Gerenciador de Pacotes** (Ferramentas > Gerenciador de Pacotes NuGet > Console do Gerenciador de Pacotes):
+No Visual Studio (com o Docker Desktop aberto em segundo plano), execute no **Console do Gerenciador de Pacotes** (Ferramentas > Gerenciador de Pacotes NuGet > Console do Gerenciador de Pacotes):
 
 ```bash
 docker compose up -d
