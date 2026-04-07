@@ -32,6 +32,7 @@ O diferencial desta aplicação está no controlador de **Pedidos (Orders)**, on
 #### 1. Pré-requisitos
 * Visual Studio 2022.
 * Docker Desktop (para o SQL Server).
+* .NET
 
 #### 2. Configurar o Banco
 No Visual Studio (com o Docker Desktop aberto em segundo plano), execute no **Console do Gerenciador de Pacotes** (Ferramentas > Gerenciador de Pacotes NuGet > Console do Gerenciador de Pacotes):
